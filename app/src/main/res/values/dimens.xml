@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_view_inside_padding">32dp</dimen>
+    <dimen name="text_view_answer_size">26sp</dimen>
+    <dimen name="question_params_text_size">20sp</dimen>
+</resources>
